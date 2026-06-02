@@ -9,11 +9,4 @@ Here are some ideas to get you started or not to tart with me :
 - 📫 How to reach me: ...No you cant for now😊
 - ⚡ Fun fact: ...At this time i dont remember 😅
 
-# 📈 GitHub Stats
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TasnimSakibRafi&theme=dark)](https://git.io/streak-stats)
-
-</div>
-&emsp;
