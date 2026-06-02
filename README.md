@@ -13,7 +13,7 @@ Here are some ideas to get you started or not to tart with me :
 
 <div align="center">
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com?user=TasnimSakibRafi&theme=radical)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TasnimSakibRafi&theme=dark)](https://git.io/streak-stats)
 
 </div>
 &emsp;
