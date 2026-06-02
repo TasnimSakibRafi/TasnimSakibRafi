@@ -10,3 +10,4 @@ Here are some ideas to get you started or not to tart with me :
 - ⚡ Fun fact: ...At this time i dont remember 😅
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
